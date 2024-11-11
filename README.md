@@ -1,0 +1,1 @@
+# firebase-database-rule-generator
